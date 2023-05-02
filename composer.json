@@ -1,0 +1,15 @@
+{
+    "name": "iti/mohamed",
+    "description": "n",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^10.1"
+    },
+    "license": "n",
+    "autoload": {
+        "psr-4": {
+            "Iti\\Mohamed\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
